@@ -125,3 +125,4 @@ apply_k8s_manifests
 # Hash 5944
 # Hash 2663
 # Hash 9888
+# Hash 6015
